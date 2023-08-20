@@ -1,1 +1,1 @@
-Sitemap: /ialab-yale.github.io/sitemap.xml
+Sitemap: /ialab/sitemap.xml
