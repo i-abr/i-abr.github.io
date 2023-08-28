@@ -126,30 +126,30 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.15607/RSS.2023.XIX.082
+  title: Time Optimal Ergodic Search
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Dayi Dong
+  - Henry Berger
+  - Ian Abraham
+  publisher: 'Robotics: Science and Systems XIX'
+  date: '2023-07-13'
+  link: https://doi.org/gsngdp
+  type: paper
+  description: In this paper, we investigate solutions to the time-optimal ergodic
+    search problem for fast and adaptive robotic search and exploration.
+  image: images/papers/time_opt_ergRSS23/fig1.png
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/ialab-yale/time_optimal_ergodic_search
+  - type: youtube
+    text: RSS Talk
+    link: live/ftQhK75Ri1E?feature=shared&t=17384
+  tags:
+  - time optimal
+  - coverage
+  - ergodicity
+  - ergodic control
   plugin: sources.py
   file: sources.yaml

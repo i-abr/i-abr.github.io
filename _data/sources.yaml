@@ -16,8 +16,21 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
 - id: doi:10.15607/RSS.2023.XIX.082
-  image: https://github.com/ialab-yale/time_optimal_ergodic_search/blob/main/figures/figure1/git_banner.png
+  type: paper
+  date: 2023-7-13
+  description: In this paper, we investigate solutions to the time-optimal ergodic search problem for fast and adaptive robotic search and exploration.
+  image: images/papers/time_opt_ergRSS23/fig1.png
+  buttons: 
+    - type: source
+      text: Code 
+      link: https://github.com/ialab-yale/time_optimal_ergodic_search
+    - type: youtube
+      text: RSS Talk
+      link: live/ftQhK75Ri1E?feature=shared&t=17384
+  tags:
+    - time optimal
+    - coverage
+    - ergodicity
+    - ergodic control 
