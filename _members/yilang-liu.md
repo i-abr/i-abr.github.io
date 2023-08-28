@@ -1,7 +1,7 @@
 ---
 name: Yilang Liu
-image: images/photo.jpg
-role: PhD Student
+image: images/yilang.jpg
+role: phd
 links:
   google-scholar: https://scholar.google.com/citations?user=yirVCdwAAAAJ&hl=en&oi=sra
   email: yilang.liu@yale.edu
