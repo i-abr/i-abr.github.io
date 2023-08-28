@@ -1,7 +1,7 @@
 ---
 name: Hrishikesh Sathyanarayan
-image: images/photo.jpg
-role: PhD Student
+image: images/members/hrishi.jpg
+role: phd
 aliases:
   - H. Sathyanarayan
   - H Sathyanarayan

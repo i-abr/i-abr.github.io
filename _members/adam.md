@@ -1,9 +1,9 @@
 ---
-name: Marvin Chancan
+name: Adam Seewald
 image: images/photo.jpg
 role: postdoc
 # group: alum
 links:
-  website: https://mchancan.github.io/
+  website: 
 ---
 

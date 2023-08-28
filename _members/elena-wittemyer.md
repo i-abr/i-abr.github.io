@@ -1,7 +1,7 @@
 ---
 name: Elena Wittemyer
-image: headshot.png
-role: undergraduate researcher
+image: images/members/elena.PNG
+role: undergrad
 aliases:
   - E Wittemyer
   - Elena

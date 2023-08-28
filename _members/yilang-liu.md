@@ -1,6 +1,6 @@
 ---
 name: Yilang Liu
-image: images/yilang.jpg
+image: images/members/yilang.jpg
 role: phd
 links:
   google-scholar: https://scholar.google.com/citations?user=yirVCdwAAAAJ&hl=en&oi=sra
