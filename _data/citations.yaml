@@ -1,129 +1,158 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/TRO.2022.3228130
+  title: Learning Stable Models for Prediction and Control
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Giorgos Mamakoukas
+  - Ian Abraham
+  - Todd D. Murphey
+  publisher: IEEE Transactions on Robotics
+  date: '2023-06-01'
+  link: https://doi.org/gsngmh
+  orcid: 0000-0003-0299-1760
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Koopman operator theory
+  - optimal control
+  - learning
+- id: doi:10.1177/02783649221083331
+  title: Hybrid control for combining model-based and model-free reinforcement learning
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Allison Pinosky
+  - Ian Abraham
+  - Alexander Broad
+  - Brenna Argall
+  - Todd D Murphey
+  publisher: The International Journal of Robotics Research
+  date: '2022-06-02'
+  link: https://doi.org/grdrqv
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.55417/fr.2023011
+  title: Scale-Invariant Specifications for Human-Swarm Systems
+  authors:
+  - Joel Meyer
+  - Ahalya Prabhakar
+  - Allison Pinosky
+  - Ian Abraham
+  - Annalisa Taylor
+  - Millicent Schlafly
+  - Katarina Popovic
+  - Giovani Diniz
+  - Brendan Teich
+  - Borislava Simidchieva
+  - Shane Clark
+  - Todd Murphey
+  publisher: Field Robotics
+  date: '2023-01-10'
+  link: https://doi.org/gsngmj
+  orcid: 0000-0003-0299-1760
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - multi-robot
+  - ergodic control
+  - ergodicitys
+  - human-robot interaction
+- id: doi:10.1109/TRO.2023.3284358
+  title: A Pareto-Optimal Local Optimization Framework for Multiobjective Ergodic
+    Search
+  authors:
+  - Zhongqiang Ren
+  - Akshaya Kesarimangalam Srinivasan
+  - Bhaskar Vundurthy
+  - Ian Abraham
+  - Howie Choset
+  publisher: IEEE Transactions on Robotics
+  date: '2023-01-01'
+  link: https://doi.org/gsngmk
+  orcid: 0000-0003-0299-1760
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - optimization
+  - multi-objective optimization
+  - ergodic search
+  - ergodicity
+- id: doi:10.1109/LRA.2021.3135930
+  title: Learning Cooperative Multi-Agent Policies With Partial Reward Decoupling
+  authors:
+  - Benjamin Freed
+  - Aditya Kapoor
+  - Ian Abraham
+  - Jeff Schneider
+  - Howie Choset
+  publisher: IEEE Robotics and Automation Letters
+  date: '2022-04-01'
+  link: https://doi.org/gsngmm
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASE.2020.3043636
+  title: An Ergodic Measure for Active Learning From Equilibrium
+  authors:
+  - Ian Abraham
+  - Ahalya Prabhakar
+  - Todd D. Murphey
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2021-07-01'
+  link: https://doi.org/gsngmn
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LRA.2020.2972836
+  title: Model-Based Generalization Under Parameter Uncertainty Using Path Integral
+    Control
+  authors:
+  - Ian Abraham
+  - Ankur Handa
+  - Nathan Ratliff
+  - Kendall Lowrey
+  - Todd D. Murphey
+  - Dieter Fox
+  publisher: IEEE Robotics and Automation Letters
+  date: '2020-04-01'
+  link: https://doi.org/gnsr47
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TRO.2019.2923880
+  title: Active Learning of Dynamics for Data-Driven Control Using Koopman Operators
+  authors:
+  - Ian Abraham
+  - Todd D. Murphey
+  publisher: IEEE Transactions on Robotics
+  date: '2019-10-01'
+  link: https://doi.org/gg65zt
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LRA.2018.2849588
+  title: 'Decentralized Ergodic Control: Distribution-Driven Sensing and Exploration
+    for Multiagent Systems'
+  authors:
+  - Ian Abraham
+  - Todd D. Murphey
+  publisher: IEEE Robotics and Automation Letters
+  date: '2018-10-01'
+  link: https://doi.org/gkv7tt
+  orcid: 0000-0003-0299-1760
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TRO.2017.2766265
+  title: Real-Time Area Coverage and Target Localization Using Receding-Horizon Ergodic
+    Exploration
+  authors:
+  - Anastasia Mavrommati
+  - Emmanouil Tzorakoleftherakis
+  - Ian Abraham
+  - Todd D. Murphey
+  publisher: IEEE Transactions on Robotics
+  date: '2018-02-01'
+  link: https://doi.org/gc2th7
+  orcid: 0000-0003-0299-1760
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15607/RSS.2023.XIX.082
