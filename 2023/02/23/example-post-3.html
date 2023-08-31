@@ -62,10 +62,10 @@
 
   <meta name="author" content="john-doe">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2023-08-29T02:58:48+00:00">
+  <meta property="og:updated_time" content="2023-08-31T00:34:58+00:00">
   <meta property="article:published_time" content="2023-02-23T00:00:00+00:00">
-  <meta property="article:modified_time" content="2023-08-29T02:58:48+00:00">
-  <meta name="revised" content="2023-08-29T02:58:48+00:00">
+  <meta property="article:modified_time" content="2023-08-31T00:34:58+00:00">
+  <meta name="revised" content="2023-08-31T00:34:58+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Example post 3" },
       "datePublished": "2023-02-23T00:00:00+00:00",
-      "dateModified": "2023-08-29T02:58:48+00:00",
+      "dateModified": "2023-08-31T00:34:58+00:00",
     
     "name": "Example post 3",
     "description": "Solving robot learning and control problems one robot at a time!. A robotics and controls lab located at Yale University.",
@@ -290,12 +290,26 @@
 <!-- include all css in styles folder -->
 
 
+  <link href="/ialab/_styles/style.css" rel="stylesheet">
+
 
   <!-- third party scripts -->
-<script src="https://unpkg.com/@popperjs/core@2" defer></script>
-<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/@popperjs/core@2.11.5/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js"></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
+<!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/three.js/84/three.min.js"></script> -->
+<script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@v0.155.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@v0.155.0/examples/jsm/",
+      "three/examples/jsm/": "https://unpkg.com/three@v0.155.0/examples/jsm/",
+      "urdf-loader" : "https://unpkg.com/urdf-loader@0.12.0/src/URDFLoader.js"
+    }
+  }
+</script>
 <!-- include all js in scripts folder -->
 
 
@@ -486,7 +500,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>August 29, 2023</span>
+      <span>August 31, 2023</span>
     </span>
   
 </div>

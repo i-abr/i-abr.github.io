@@ -334,12 +334,26 @@
 <!-- include all css in styles folder -->
 
 
+  <link href="/ialab/_styles/style.css" rel="stylesheet">
+
 
   <!-- third party scripts -->
-<script src="https://unpkg.com/@popperjs/core@2" defer></script>
-<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/@popperjs/core@2.11.5/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js"></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
+<!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/three.js/84/three.min.js"></script> -->
+<script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@v0.155.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@v0.155.0/examples/jsm/",
+      "three/examples/jsm/": "https://unpkg.com/three@v0.155.0/examples/jsm/",
+      "urdf-loader" : "https://unpkg.com/urdf-loader@0.12.0/src/URDFLoader.js"
+    }
+  }
+</script>
 <!-- include all js in scripts folder -->
 
 
@@ -1225,26 +1239,44 @@
 
   
 
- -->
+
+
+<!--
   </section>
 
   
   
   
 
-  <section class="background" data-size="2" data-dark="true" style="--image: url('/ialab/images/background.jpg')">
+  <section
+    class="background"
+    data-size="2"
+    
+      data-dark="true"
+    
+    
+      style="--image: url('/ialab/images/background.jpg')"
+    
+  >
     <!--
   background: images/background.jpg;
   dark: true;
   size: 2;
 -->
+
+<!--
   </section>
 
   
   
   
 
-  <section class="background" data-size="page">
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
     <!--
   background: ;
   dark: ;
@@ -1253,36 +1285,6 @@
 
 <div class="grid" data-style="square">
   
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/ialab/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/ialab/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/ialab/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/ialab/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/ialab/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/ialab/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
 
 </div>
   </section>
