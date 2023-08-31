@@ -15,18 +15,15 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
+<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %} 
 
-{% include section.html %}
+<!-- {% include section.html %}  
 
-{% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% capture content %} 
 
-{% endcapture %}
+{% endcapture %} 
 
 {% include grid.html style="square" content=content %}

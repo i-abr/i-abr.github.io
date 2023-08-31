@@ -1,9 +1,19 @@
 ---
 ---
-
 # About Us
 
 The Intelligent Autonomy Lab is led by Dr. Ian Abraham. Our research interest is at the intersection of optimal control and learning theory, developing algorithmic methods that enable robots to explore, intentionally learn, and experiment to become provably self-sufficient autonomous agents.
+
+{% include section.html %}
+
+## Demo
+
+
+<div id="cube" style="--aspect-ratio:16/9;">
+  <script type="module" src="demos/simple.js"></script>
+</div>
+
+
 
 {% include section.html %}
 
