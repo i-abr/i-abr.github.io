@@ -1,47 +1,59 @@
 - title: Ergodic Search and Exploration
   subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/time_opt_erg2.gif
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description:
+  repo: ialab-yale/
   tags:
-    - resource
+    - ergodicity
+    - ergodic control
+    - exploration
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Optimal Experimental Learning
+  subtitle: 
+  group: featured
+  image: images/hand_rubix.jpg
+  link: https://github.com/
+  description: 
+  repo: ialab-yale/lab-website-template
+  tags:
+    - learning
+    - experimental design
+    - optimal control
+
+- title: Koopman Operators
+  subtitle: 
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 
+  repo: ialab-yale/lab-website-template
   tags:
-    - resource
+    - Koopman operators
+    - Koopman theory
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Multi-Agent Coordination
+  subtitle: 
+  group: featured
+  image: images/multi-agent-erg.gif
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 
+  repo: ialab-yale/lab-website-template
   tags:
-    - resource
-    - publication
+    - heterogeneous
+    - multi-agent
+    - multi-robot
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Bio-Inspired Algorithms for Sensing
+  subtitle: 
+  group: featured
+  image: images/rat_whisking.gif
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 
+  repo: ialab-yale/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - tactile sensing
+    - active sensing
+    - ergodicity
+    - information-based exploration
