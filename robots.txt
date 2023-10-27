@@ -1,1 +1,1 @@
-Sitemap: /ialab/sitemap.xml
+Sitemap: /sitemap.xml
