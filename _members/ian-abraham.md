@@ -1,6 +1,6 @@
 ---
 name: Ian Abraham
-image: images/members/ian.jpg
+image: images/members/ian.jpeg
 role: pi
 aliases:
   - I. Abraham
