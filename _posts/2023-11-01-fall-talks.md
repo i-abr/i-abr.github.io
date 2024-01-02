@@ -6,7 +6,7 @@ tags:
 
 PI Abraham gives talks on optimality and guarantees in robotic exploration at the University of Toronto Robotics Seminar, UIUC Robotics Seminar, NJIT Seminar, and Illinois Institute of Tech. 
 
-[UToronto talk here--low audio quality unfortunately](https://www.youtube.com/watch?v=WoO1X-0EBLA)
+[UToronto talk here](https://www.youtube.com/watch?v=WoO1X-0EBLA) -- low audio quality unfortunately
 
 
 
