@@ -2,6 +2,7 @@
 name: Dayi Ethan Dong
 image: images/members/Ethan.jpg
 role: undergrad
+group: alum
 aliases:
   - D. Dong
   - D Dong
