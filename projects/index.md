@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our work spans a wide range of problems in optimal control, learning, exploration, manipulation, locomotion, and multi-agent coordination. We regularly provide demos and readily deployable open-source code.
+Our work spans a wide range of problems in optimal control, learning, and robotics. We regularly provide demos and readily deployable open-source code.
 
 {% include tags.html tags="publication, resource, website" %}
 

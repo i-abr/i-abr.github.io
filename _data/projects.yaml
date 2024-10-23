@@ -1,4 +1,4 @@
-- title: Ergodic Search and Exploration
+- title: Theory of Search and Exploration
   subtitle: 
   group: featured
   image: images/time_opt_erg2.gif
@@ -9,8 +9,9 @@
     - ergodicity
     - ergodic control
     - exploration
+    - information maximization
 
-- title: Optimal Experimental Learning
+- title: Optimal Design and Control
   subtitle: 
   group: featured
   image: images/hand_rubix.jpg
@@ -18,20 +19,10 @@
   description: 
   repo: ialab-yale/lab-website-template
   tags:
+    - information-based exploration
     - learning
     - experimental design
     - optimal control
-
-- title: Koopman Operators
-  subtitle: 
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: 
-  repo: ialab-yale/lab-website-template
-  tags:
-    - Koopman operators
-    - Koopman theory
 
 - title: Multi-Agent Coordination
   subtitle: 
@@ -45,7 +36,7 @@
     - multi-agent
     - multi-robot
 
-- title: Bio-Inspired Algorithms for Sensing
+- title: Structured Learning
   subtitle: 
   group: featured
   image: images/rat_whisking.gif
