@@ -18,11 +18,11 @@
   link: https://github.com/
   description: 
   repo: ialab-yale/lab-website-template
-  tags:
-    - information-based exploration
-    - learning
-    - experimental design
-    - optimal control
+  # tags:
+  #   - information-based exploration
+  #   - learning
+  #   - experimental design
+  #   - optimal control
 
 - title: Multi-Agent Coordination
   subtitle: 
@@ -31,10 +31,10 @@
   link: https://github.com/
   description: 
   repo: ialab-yale/lab-website-template
-  tags:
-    - heterogeneous
-    - multi-agent
-    - multi-robot
+  # tags:
+  #   - heterogeneous
+  #   - multi-agent
+  #   - multi-robot
 
 - title: Structured Learning
   subtitle: 
@@ -43,8 +43,8 @@
   link: https://github.com/
   description: 
   repo: ialab-yale/lab-website-template
-  tags:
-    - tactile sensing
-    - active sensing
-    - ergodicity
-    - information-based exploration
+  # tags:
+  #   - tactile sensing
+  #   - active sensing
+  #   - ergodicity
+  #   - information-based exploration
