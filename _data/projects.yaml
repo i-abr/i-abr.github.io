@@ -6,10 +6,10 @@
   description:
   repo: ialab-yale/
   tags:
-    - ergodicity
-    - ergodic control
-    - exploration
-    - information maximization
+    # - ergodicity
+    # - ergodic control
+    # - exploration
+    # - information maximization
 
 - title: Optimal Design and Control
   subtitle: 
