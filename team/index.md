@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 # {% include icon.html icon="fa-solid fa-users" %} PhD Students 
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+<!-- {% include list.html data="members" component="portrait" filters="role: postdoc" %} -->
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Undergraduate Students
@@ -20,7 +20,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: alum" %}
 
 
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}

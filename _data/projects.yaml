@@ -11,7 +11,7 @@
     # - exploration
     # - information maximization
 
-- title: Optimal Design and Control
+- title: Structured Learning and Control
   subtitle: 
   group: featured
   image: images/hand_rubix.jpg
@@ -36,15 +36,15 @@
   #   - multi-agent
   #   - multi-robot
 
-- title: Structured Learning
-  subtitle: 
-  group: featured
-  image: images/rat_whisking.gif
-  link: https://github.com/
-  description: 
-  repo: ialab-yale/lab-website-template
-  # tags:
-  #   - tactile sensing
-  #   - active sensing
-  #   - ergodicity
-  #   - information-based exploration
+# - title: Structured Learning
+#   subtitle: 
+#   group: featured
+#   image: images/rat_whisking.gif
+#   link: https://github.com/
+#   description: 
+#   repo: ialab-yale/lab-website-template
+#   # tags:
+#   #   - tactile sensing
+#   #   - active sensing
+#   #   - ergodicity
+#   #   - information-based exploration

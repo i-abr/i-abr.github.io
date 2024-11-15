@@ -36,7 +36,7 @@ Robotic systems have the potential to enhance our way of life and solve some of 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bunny_inspection_abstract_fig.png"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ Our work spans a wide range of problems in optimal control, learning, exploratio
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/allegro_manip.gif"
   link="projects"
   title="Our Projects"
   flip=true
