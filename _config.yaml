@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Intelligent Autonomy Lab
-subtitle: A robotics, controls, and learning research lab at Yale University.
-description: A robotics, controls, and learning lab located at Yale University.
+subtitle: A robotics, learning, and controls research lab at Yale University.
+description: A robotics, learning, and controls lab located at Yale University.
 header: images/robot-friends.jpg
 footer: images/lab_img.png
 
