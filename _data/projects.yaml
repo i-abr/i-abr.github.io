@@ -1,7 +1,7 @@
 - title: Theory of Search and Exploration
   subtitle: 
   group: featured
-  image: images/time_opt_erg2.gif
+  image: images/bunny_inspection_abstract_fig.png
   link: https://github.com/
   description:
   repo: ialab-yale/
@@ -24,7 +24,7 @@
   #   - experimental design
   #   - optimal control
 
-- title: Multi-Agent Coordination
+- title: Collective Intelligence
   subtitle: 
   group: featured
   image: images/multi-agent-erg.gif
