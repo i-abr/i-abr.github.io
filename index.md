@@ -21,7 +21,10 @@ The Intelligent Autonomy Lab is led by Prof. Ian Abraham. Our research focus is 
 
 {% capture text %}
 
-Robotic systems have the potential to enhance our way of life and solve some of the world's most difficult problems---but in doing so they encounter situations unanticipated by the robot designer and software developer. Our research investigates this gap by framing artificial curiosity and experimentation as real-time computational problems solvable through online optimization. 
+Robotic systems have the potential to enhance our way of life and solve some of the world's most difficult problems---but in doing so they encounter situations unanticipated by the robot designer and software developer. Robots need to be equipped with mechanisms that allow them to respond to the unknown reliably to guarantees their success.  
+
+We are interested in discovering principles for robots to adapt and learn in real-time through negotiating and responding to their environment. Specifically, our research seeks to analyze and discover principled methods that enable robots to curiously explore, interact, and learn in novel scenarios with minimal data, compute, and with strong performance and reliability guarantees.
+
 
 {%
   include button.html
