@@ -1,7 +1,7 @@
 ---
 name: Cameron Lerch
 image: images/photo.jpg
-role: phd
+role: alum
 links:
   email: cameron.lerch@yale.edu
 ---

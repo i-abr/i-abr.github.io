@@ -1,7 +1,7 @@
 ---
 name: Marvin Chancan
 image: images/photo.jpg
-role: postdoc
+role: alum
 group: alum
 links:
   website: https://mchancan.github.io/

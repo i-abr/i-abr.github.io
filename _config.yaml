@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Intelligent Autonomy Lab
-subtitle: A robotics, learning, and controls research lab at Yale University.
-description: A robotics, learning, and controls lab located at Yale University.
+title: CoCuRo Lab
+subtitle: Computational Methods for Curious Robots Lab
+description: A robotics, optimization, learning, and controls research lab.
 header: images/robot-friends.jpg
 footer: images/lab_img.png
 

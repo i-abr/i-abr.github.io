@@ -1,7 +1,7 @@
 ---
 name: Elena Wittemyer
 image: images/members/elena.PNG
-role: undergrad
+role: alum
 aliases:
   - E Wittemyer
   - Elena

@@ -1,7 +1,8 @@
 ---
 name: Adam Seewald
 image: images/photo.jpg
-role: postdoc
+role: alum
+newrole: Postdoc ETH Zurich
 group: alum
 links:
   website: 

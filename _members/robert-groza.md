@@ -1,7 +1,7 @@
 ---
 name: Robert Groza
 image: images/members/robert.jpeg
-role: undergrad
+role: alum
 # group: alum
 links:
   linkedin: https://www.linkedin.com/in/roberto-groza-0b55191b5/)

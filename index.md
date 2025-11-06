@@ -2,7 +2,9 @@
 ---
 # About Us
 
-The Intelligent Autonomy Lab is led by Prof. Ian Abraham. 
+The CoCuRo Lab is led by Prof. Ian Abraham. 
+
+
 
 Robotic systems have the potential to enhance our way of life and solve some of the world's most difficult problems---but in doing so they encounter situations unanticipated by the robot designer and software developer. Robots need to be equipped with mechanisms that allow them to respond to the unknown reliably to guarantees their success.  
 
@@ -17,9 +19,6 @@ We are interested in discovering principles for robots to adapt and learn in rea
   <script type="module" src="demos/simple.js"></script>
 </div> -->
 
-
-
-{% include section.html %}
 
 ## Highlights
 
